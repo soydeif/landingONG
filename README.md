@@ -1,4 +1,4 @@
-# landing ONG - "Se parte del cambio"
+# landing - "Se parte del cambio"
 
 Aprovechando la ocasion de aprender una libreria nueva, decidi hacer una simple pero potente landing page enfocada en la solidaridad. Un recurso muy valioso y que depende de todos cultivar y mantener. 
 
